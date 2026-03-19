@@ -24,7 +24,7 @@ For the UI and RAG Multiple file version
 - Terminal -> streamlit run agentwithragv2.py
 
 For the test class running
-- pytest -v tests/test_rag.py
+- Terminal -> pytest -v tests/test_rag.py
 
 ## Requirements
 - OPENAI_API_KEY
