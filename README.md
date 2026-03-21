@@ -14,17 +14,22 @@ This project features an AI Agent architecture capable of generating responses b
 ## How It Works
 Running the class via terminal is sufficient.
 
+ ```bash
 For the UI version 
 - Terminal -> streamlit run agentwithui.py
-
+```
+ ```bash
 For the UI and RAG PDF version 
 - Terminal -> streamlit run agentwithrag.py
-
+```
+ ```bash
 For the UI and RAG Multiple file version 
 - Terminal -> streamlit run agentwithragv2.py
-
+```
+ ```bash
 For the test class running
 - Terminal -> pytest -v tests/test_rag.py
+```
 
 ## Requirements
 - OPENAI_API_KEY
